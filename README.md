@@ -45,3 +45,6 @@ Y. Kaloga, M. Foare, N. Pustelnik, and P. Jensen , Discrete Mumford-Shah on grap
 for mixing matrix estimation, accepted in IEEE Signal Processing Letters, 2019.
 
 -------------------------------------------------------------------------------------
+
+
+![alt text](http://perso.ens-lyon.fr/nelly.pustelnik/images/ill_DMS_Graph.jpg)
