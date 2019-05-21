@@ -41,7 +41,7 @@ after convergence.
 ------------------------------------------------------------------------------------
 RELATED PUBLICATIONS:
 
-#  Y. Kaloga, M. Foare, N. Pustelnik, and P. Jensen , Discrete Mumford-Shah on graph 
+Y. Kaloga, M. Foare, N. Pustelnik, and P. Jensen , Discrete Mumford-Shah on graph 
 for mixing matrix estimation, accepted in IEEE Signal Processing Letters, 2019.
 
 -------------------------------------------------------------------------------------
